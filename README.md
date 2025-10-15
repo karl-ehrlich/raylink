@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-l.png?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true">
-    <img src="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true" height="64" alt="Raylink Logo">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/.github/raylink-l.png?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/.github/raylink-d.png?raw=true">
+    <img src="https://github.com/karl-ehrlich/raylink/blob/main/.github/raylink-d.png?raw=true" height="64" alt="Raylink Logo">
   </picture>
 </p>
 
