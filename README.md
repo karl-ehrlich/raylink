@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true" height="64">
-  <h1 align="center">CodeEdit for macOS</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-l.png?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true">
+    <img src="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true" height="64" alt="Raylink Logo">
+  </picture>
+  <h1 align="center">Raylink</h1>
 </p>
 
 
