@@ -7,7 +7,7 @@
 </p>
 
 
-CodeEdit is a code editor built by the community, for the community, written entirely and unapologetically for macOS. Features include syntax highlighting, code completion, project find and replace, snippets, terminal, task running, debugging, git integration, code review, extensions, and more.
+Raylink is an infrared based, mesh communication system, build as a fun project by Karl Ehrlich. It allows communication over a custom peering protocol, and directly communicates wirelessly over the air, using vertical cavity emiting lasers, and infrared diodes. 
 
 <img width="1012" alt="github-banner" src="https://user-images.githubusercontent.com/806104/194004176-3143d19f-1ad9-449c-bd41-8c4f9998f44b.png">
 
