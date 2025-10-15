@@ -6,15 +6,10 @@
   </picture>
 </p>
 
-
-Raylink is an infrared based, mesh communication system, build as a fun project by me. It allows communication over a custom peering protocol, and directly communicates wirelessly over the air, using vertical cavity emiting lasers, and infrared diodes. 
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-banner-l.png?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-banner-d.png?raw=true">
-    <img src="https://github.com/karl-ehrlich/raylink/blob/main/raylink-banner-d.png?raw=true" width="1024" alt="Raylink Banner">
-</picture>
-
+Raylink is an experimental **infrared-based mesh communication system**, created as a personal research and exploration project.  
+It enables device-to-device communication over a **custom lightweight peering protocol**, transmitting data wirelessly through the air using **VCSELs (Vertical-Cavity Surface-Emitting Lasers)** and **infrared diodes**.  
+The goal of Raylink is to explore **low-cost, short-range optical networking** — a field that bridges optics, embedded systems, and distributed communication design.
 
 > [!IMPORTANT]
-> Raylink is currentl yin development, therefore not publicly available. If you have any ideas, need some files, or anyhting, gladly reach out to me, and I will give my best to help you.
+> Raylink is currently under active development and not yet publicly released.  
+> If you have ideas, want to collaborate, or need access to specific components or documentation, feel free to reach out — I’m happy to share details or assist where possible.
