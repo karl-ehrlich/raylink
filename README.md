@@ -4,7 +4,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true">
     <img src="https://github.com/karl-ehrlich/raylink/blob/main/raylink-d.png?raw=true" height="64" alt="Raylink Logo">
   </picture>
-  <h1 align="center">Raylink</h1>
 </p>
 
 
